@@ -1,2 +1,2 @@
-# recipe-api-django-rest-ubuntu
-recipe-api-django-rest in ubuntu machine
+# recipe-api-django-rest
+Make Recipe App API using Django Rest Framework
